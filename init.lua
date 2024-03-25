@@ -616,7 +616,7 @@ require('lazy').setup({
         sqlls = {},
         svelte = {},
         tailwindcss = {
-          filteypes = { 'html', 'templ', 'astro', 'typescript', 'javascript', 'react' },
+          filteypes = { 'css', 'html', 'templ', 'astro', 'typescript', 'javascript', 'react' },
           init_options = {
             userLanguages = {
               templ = 'html',
